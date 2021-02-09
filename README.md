@@ -1,0 +1,1 @@
+# DestructureObject_arraydestructure_complexobject
